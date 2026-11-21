@@ -1,62 +1,83 @@
 # Hi, I'm Anas 👋
 
-I'm a developer based in **Shah Alam, Selangor, Malaysia 🇲🇾**. I build web apps, browser games and small tools, and I like turning ideas into things that actually work, from Laravel apps to Python automation and machine learning experiments.
+I'm a **Software Developer** based in **Petaling Jaya, Selangor, Malaysia 🇲🇾**, with 3+ years of experience building and maintaining web apps. Right now I'm a **Digital Developer at Trinergy Digital**, where I work on the frontend projects with **React, Vue.js and TypeScript**, working alongside **Laravel** backends.
 
-I'm still growing as a developer, and I learn best by building.
+Outside work I build things I actually want to use: mobile web apps, browser games and small tools.
 
-🌐 **Portfolio:** [aznalanas](https://lanza00.github.io/portfolio)
-💼 **LinkedIn:** [in/aznalanas](https://www.linkedin.com/in/aznalanas)
+🌐 **Portfolio:** [Aznal Anas](https://lanza00.github.io/portfolio)
+💼 **LinkedIn:** [Aznal Anas](https://www.linkedin.com/in/aznalanas)
 
 ---
 
 ## 🛠️ Tech I work with
 
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & data**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Games & tools**
+![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured projects
 
-### 🌐 Web apps (Laravel / PHP)
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **Medicine Tracker** | Client project. Phone-first PWA a pet owner uses every day to tick off each pet's morning and evening doses, get push reminders and export the history to CSV | Next.js 15, TypeScript, Supabase, Web Push | [Live demo](https://medicine-tracker-demo.vercel.app) |
+| **Kad Kahwin Digital** | Animated digital wedding invitation with an opening seal, live countdown, five colour themes, RSVP, guest wishes and a PIN-protected admin page | Next.js, TypeScript, Tailwind, Framer Motion, Supabase | [Live demo](https://kad-kahwin-chi.vercel.app) |
+| [**Attendance Tracker**](https://github.com/Lanza00/attendance-tracker) | QR check-in form for events. Each check-in is saved as a new row in a private Google Sheet, with the Google login kept on the server | Next.js, TypeScript, Google Sheets API | [Code](https://github.com/Lanza00/attendance-tracker) |
+
+<sub>The Medicine Tracker demo uses sample pets; the client's real app stays private.</sub>
+
+## 🎮 Games
+
+| Game | What it is | Built with | Links |
+|---|---|---|---|
+| [**Apex Club**](https://github.com/Lanza00/apex-club) | Top-down rally racer. Beat three computer drivers over three laps on Pinecrest Circuit. Keyboard or touch, saves your best lap. Made with ChatGPT Astra | Phaser, TypeScript, Vite | [Play](https://lanza00.github.io/apex-club/dist/) · [Code](https://github.com/Lanza00/apex-club) |
+| [**Wonderland Mini-Game**](https://github.com/Lanza00/mini-game-v1) | Alice in Wonderland party game. Put the missing piece back on the character without looking, guided by your team | HTML5 Canvas, JavaScript | [Play](https://lanza00.github.io/mini-game-v1/) · [Code](https://github.com/Lanza00/mini-game-v1) |
+| [**WordRush**](https://github.com/Lanza00/wordRush) | Malay ↔ English typing and translation game with four levels, from beginner to expert vocabulary | HTML, JavaScript | [Play](https://lanza00.github.io/wordRush/) · [Code](https://github.com/Lanza00/wordRush) |
+
+<details>
+<summary><b>📁 Earlier projects</b> (Laravel, Python & machine learning)</summary>
+
 | Project | Description |
 |---|---|
-| [**crud**](https://github.com/Lanza00/crud) | Laravel 10 application with full CRUD (create, read, update, delete) features |
-| [**laravel-10-registration-form**](https://github.com/Lanza00/laravel-10-registration-form) | User registration form built with Laravel 10, Blade and Breeze |
-
-### 🎮 Games & front-end (HTML / CSS / JavaScript)
-| Project | Description |
-|---|---|
-| [**mini-game-v1**](https://github.com/Lanza00/mini-game-v1) | Alice in Wonderland party game. Put the missing hat, tail or crown back on the character without looking, guided by your team. Single HTML file, no dependencies |
-| [**wordRush**](https://github.com/Lanza00/wordRush) | English → Bahasa Melayu translation games for practising vocabulary |
-| [**portfolio**](https://github.com/Lanza00/portfolio) | Responsive, modern personal portfolio built with HTML5, CSS3 and JavaScript |
-| [**Body_Mass_Index_Calculator**](https://github.com/Lanza00/Body_Mass_Index_Calculator) | Simple BMI calculator |
-
-### 🤖 Python, data & machine learning
-| Project | Description |
-|---|---|
-| [**web-scrapping**](https://github.com/Lanza00/web-scrapping) | Web scraping tool with CLI and GUI modes. Extracts HTML data into CSV or JSON, handy for data collection and ML datasets |
+| [**web-scrapping**](https://github.com/Lanza00/web-scrapping) | Web scraping tool with CLI and GUI modes. Extracts HTML data into CSV or JSON |
 | [**dataDetection**](https://github.com/Lanza00/dataDetection) | Fruit ripeness classifier using a CNN (ripe vs not ripe) |
 | [**image-editor**](https://github.com/Lanza00/image-editor) | Image cropper and resizer with a GUI |
+| [**crud**](https://github.com/Lanza00/crud) | Laravel 10 app with full CRUD features |
+| [**laravel-10-registration-form**](https://github.com/Lanza00/laravel-10-registration-form) | Registration form with Laravel 10, Blade and Breeze |
+| [**Body_Mass_Index_Calculator**](https://github.com/Lanza00/Body_Mass_Index_Calculator) | Simple BMI calculator |
+
+</details>
 
 ---
 
 ## 🌱 Currently
 
-- Building more full-stack projects with **Laravel**, **Vue** and **React**
-- Exploring **Python** for automation and machine learning
-- Looking for opportunities to grow and contribute on a real team
+- Building frontends for client projects at **Trinergy Digital** with React, Vue and TypeScript
+- Shipping personal projects with **Next.js**, **Supabase** and **Vercel**
+- Making small browser games, and learning more **Python**, data structures and machine learning
 
 ## 📫 Let's connect
 
-The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/aznalanas). I'm always happy to talk about code, projects, or collaboration.
+I'm open to new opportunities, freelance work and interesting projects. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/aznalanas), or through my [portfolio](https://lanza00.github.io/portfolio).
 
 ---
 

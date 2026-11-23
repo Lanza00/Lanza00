@@ -1,11 +1,11 @@
 # Hi, I'm Anas 👋
 
-I'm a **Software Developer** based in **Petaling Jaya, Selangor, Malaysia 🇲🇾**, with 3+ years of experience building and maintaining web apps. Right now I'm a **Digital Developer at Trinergy Digital**, where I work on the frontend projects with **React, Vue.js and TypeScript**, working alongside **Laravel** backends.
+I'm a **Software Developer** based in **Petaling Jaya, Selangor, Malaysia 🇲🇾**, with 3+ years of experience building and maintaining web apps. Right now I'm a **Digital Developer at Trinergy Digital**, where I work in a team to maintain and develop client projects with **React, Vue.js and TypeScript**, alongside **Laravel** backends.
 
 Outside work I build things I actually want to use: mobile web apps, browser games and small tools.
 
-🌐 **Portfolio:** [Aznal Anas](https://lanza00.github.io/portfolio)
-💼 **LinkedIn:** [Aznal Anas](https://www.linkedin.com/in/aznalanas)
+🌐 **Portfolio:** [lanza00.github.io/portfolio](https://lanza00.github.io/portfolio)
+💼 **LinkedIn:** [in/aznalanas](https://www.linkedin.com/in/aznalanas)
 
 ---
 
@@ -71,7 +71,7 @@ Outside work I build things I actually want to use: mobile web apps, browser gam
 
 ## 🌱 Currently
 
-- Building frontends for client projects at **Trinergy Digital** with React, Vue and TypeScript
+- Helping maintain and develop client projects at **Trinergy Digital** with React, Vue and TypeScript
 - Shipping personal projects with **Next.js**, **Supabase** and **Vercel**
 - Making small browser games, and learning more **Python**, data structures and machine learning
 

@@ -2,10 +2,10 @@
 
 I'm a **Software Developer** based in **Petaling Jaya, Selangor, Malaysia 🇲🇾**, with 3+ years of experience building and maintaining web apps. Right now I'm a **Digital Developer at Trinergy Digital**, where I work in a team to maintain and develop client projects with **React, Vue.js and TypeScript**, alongside **Laravel** backends.
 
-Outside work I build things I actually want to use: mobile web apps, browser games and small tools.
+Outside work I make **browser games** that run on desktop and phone. You can play all of them below.
 
-🌐 **Portfolio:** [lanza00.github.io/portfolio](https://lanza00.github.io/portfolio)
-💼 **LinkedIn:** [in/aznalanas](https://www.linkedin.com/in/aznalanas)
+🌐 **Portfolio:** [Aznal Anas](https://lanza00.github.io/portfolio)
+💼 **LinkedIn:** [Aznal Anas](https://www.linkedin.com/in/aznalanas)
 
 ---
 
@@ -29,26 +29,18 @@ Outside work I build things I actually want to use: mobile web apps, browser gam
 **Games & tools**
 ![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Featured projects
-
-| Project | What it is | Built with | Links |
-|---|---|---|---|
-| **Medicine Tracker** | Client project. Phone-first PWA a pet owner uses every day to tick off each pet's morning and evening doses, get push reminders and export the history to CSV | Next.js 15, TypeScript, Supabase, Web Push | [Live demo](https://medicine-tracker-demo.vercel.app) |
-| **Kad Kahwin Digital** | Animated digital wedding invitation with an opening seal, live countdown, five colour themes, RSVP, guest wishes and a PIN-protected admin page | Next.js, TypeScript, Tailwind, Framer Motion, Supabase | [Live demo](https://kad-kahwin-chi.vercel.app) |
-| [**Attendance Tracker**](https://github.com/Lanza00/attendance-tracker) | QR check-in form for events. Each check-in is saved as a new row in a private Google Sheet, with the Google login kept on the server | Next.js, TypeScript, Google Sheets API | [Code](https://github.com/Lanza00/attendance-tracker) |
-
-<sub>The Medicine Tracker demo uses sample pets; the client's real app stays private.</sub>
-
-## 🎮 Games
+## 🎮 Games I've made
 
 | Game | What it is | Built with | Links |
 |---|---|---|---|
+| [**Gridlock Garden**](https://github.com/Lanza00/gridlock-garden) | Cosy block puzzle. Drag pastel garden tiles onto an 8×8 bed and clear full rows and columns. Combos, hints, one undo, four themes, stats, and installs as an app that plays offline. Made with Claude | Phaser 3, TypeScript, Vite, Vitest | [Play](https://lanza00.github.io/gridlock-garden/) · [Code](https://github.com/Lanza00/gridlock-garden) |
 | [**Apex Club**](https://github.com/Lanza00/apex-club) | Top-down rally racer. Beat three computer drivers over three laps on Pinecrest Circuit. Keyboard or touch, saves your best lap. Made with ChatGPT Astra | Phaser, TypeScript, Vite | [Play](https://lanza00.github.io/apex-club/dist/) · [Code](https://github.com/Lanza00/apex-club) |
 | [**Wonderland Mini-Game**](https://github.com/Lanza00/mini-game-v1) | Alice in Wonderland party game. Put the missing piece back on the character without looking, guided by your team | HTML5 Canvas, JavaScript | [Play](https://lanza00.github.io/mini-game-v1/) · [Code](https://github.com/Lanza00/mini-game-v1) |
 | [**WordRush**](https://github.com/Lanza00/wordRush) | Malay ↔ English typing and translation game with four levels, from beginner to expert vocabulary | HTML, JavaScript | [Play](https://lanza00.github.io/wordRush/) · [Code](https://github.com/Lanza00/wordRush) |
@@ -72,8 +64,8 @@ Outside work I build things I actually want to use: mobile web apps, browser gam
 ## 🌱 Currently
 
 - Helping maintain and develop client projects at **Trinergy Digital** with React, Vue and TypeScript
-- Shipping personal projects with **Next.js**, **Supabase** and **Vercel**
-- Making small browser games, and learning more **Python**, data structures and machine learning
+- Making browser games with **Phaser**, **TypeScript** and **Vite**, and adding tests with **Vitest**
+- Learning more **Python**, data structures and machine learning
 
 ## 📫 Let's connect
 
